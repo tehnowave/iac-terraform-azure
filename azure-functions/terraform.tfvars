@@ -1,0 +1,5 @@
+resource_group_name   = "myResourceGroup"
+location              = "West Europe"
+storage_account_name  = "terraformstorageshark1"  
+function_app_name     = "myfunctionapp"
+service_plan_name     = "myserviceplan"
