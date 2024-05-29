@@ -1,0 +1,8 @@
+resource_group_name   = "example-resources"
+location              = "West Europe"
+storage_account_name  = "terraformstorageshark1"
+container_name        = "vhds"
+blob_name             = "example-blob"
+blob_content          = "Hello, World!"
+service_plan_name     = "example-service-plan"
+function_app_name     = "example-function-app"
